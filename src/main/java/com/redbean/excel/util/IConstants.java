@@ -1,4 +1,4 @@
-package com.mackey.excel.util;
+package com.redbean.excel.util;
 
 public interface IConstants {
 	/**时间格式(24进制):yyyy-MM-dd HH:mm:ss**/

@@ -1,4 +1,4 @@
-package com.mackey.excel;
+package com.redbean.excel;
 
 import java.math.BigDecimal;
 import java.util.Date;

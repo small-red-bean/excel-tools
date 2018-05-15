@@ -1,7 +1,7 @@
-package com.mackey.excel;
+package com.redbean.excel;
 
 
-import com.mackey.excel.util.IConstants;
+import com.redbean.excel.util.IConstants;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

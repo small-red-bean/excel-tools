@@ -1,4 +1,4 @@
-package com.mackey.excel;
+package com.redbean.excel;
 
 public interface NotNeedFormat {
 
